@@ -1,0 +1,18 @@
+.d-f {
+  display: flex;
+}
+.d-b {
+  display: block;
+}
+.d-i-b {
+  display: inline-block;
+}
+.j-c {
+  justify-content: space-between;
+}
+.p-m{
+  padding-bottom:15px ;
+}
+.m-b{
+  margin-bottom: 15px;
+}
